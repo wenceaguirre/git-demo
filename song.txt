@@ -1,10 +1,15 @@
-Swords and spear
 Wall of shields
 standing strong
 on this their chosen battle field
 
+<<<<<<< HEAD
 Form the Lines
 Shield by Shield
 Side by Side
 We're marching into Destiny
 -------------------------------------------
+=======
+Form the lines
+Shield by shield
+
+>>>>>>> b0d3dc81f4b29da36247bfaa9ff7470662706516
